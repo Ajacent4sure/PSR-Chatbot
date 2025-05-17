@@ -1,0 +1,16 @@
+pypdf
+langchain
+transformers 
+torch
+ollama
+pdfplumber
+pypdf2
+faiss-cpu
+langchain-community
+sentence-transformers
+streamlit
+faiss-cpu
+openai
+python-dotenv
+PyPDF2
+accelerate

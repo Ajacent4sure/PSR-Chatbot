@@ -1,0 +1,8 @@
+# Ignore FAISS index files or directory
+faiss_index/
+
+# Ignore environment variables file
+.env
+
+# Ignore Python virtual environment folder
+venv/
